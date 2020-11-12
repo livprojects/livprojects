@@ -1,17 +1,41 @@
 ### Hi there 👋
 
-Welcome to my Github. Here is a summary of my finished works and those in progress. Feel free to reach out and tell me any improvement you might think of, but please be nice, constructive and bear in mind I am still a junior developer, thank you ! 
-<!--
-**livprojects/livprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node) but I am eager to expand my knowledge. 
+📬 Please feel free to reach out and comment and my projects, but please be kind, constructive and bear in mind I am still a junior developer! Thank you ✨ 
 
-Here are some ideas to get you started:
+📰 I also have a Master's degree in political science which doubles as a professional degree in Journalism. I have been writing for six years now for major French media outlets on economics, science, societal issues and literature. So whether you're interested in my technical or my writing skills, you can reach me on Twitter, Linkedin or via e-mail. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 ==Tech stack I am ready to use in a professional environment==
+- HTML
+- Javascript (vanilla)
+- CSS
+- React 
+- Node.js
+- Express.js
+- SQL/PostgreSQL/Sequelize
+- RESTful APIs design & implementation
+- Typescript
+- Mocha and Chai for unit testing 
+
+📍 ==Collaborative tools and methods I use==
+- Git & Github (duh)
+- Agile software development 
+- MERISE methodology (very French) : scope statement, database design, etc.
+- Kanban tools
+
+📍 ==Tech stack I am still working on==
+- AWS
+- C
+- Python
+- Vue.js
+
+---
+
+💾 ==Finished projects (or will they ever be?)==
+
+Repository / Codepen 
+
+💻 ==In progress (and what's missing)==
+
+🔮 ==Upcoming==
+
