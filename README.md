@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to my Github. Here is a summary of my finished works and those in progress. Feel free to reach out and tell me any improvement you might think of, but please be nice, constructive and bear in mind I am still a junior developer, thank you ! 
 <!--
 **livprojects/livprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
