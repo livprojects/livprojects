@@ -32,7 +32,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ---
 
-💾 *Finished projects (or will they ever be?)*
+#### 💾 FINISHED PROJECTS (or will they ever be?)
 
 - Portfolio 🔸 HTML, CSS (Grid)
 
@@ -72,17 +72,19 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ---
 
-💻 *In progress (and what's missing)*
+#### 💻 IN PROGRESS (and what's missing)
 
 - Magic Eight Ball 🔸 HTML, CSS, Javascript vanilla
 
-*A light script a random number to generate an answer to the user, as a tribute to the magic eight balls of our teenagehood. *
+*Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
+
+> Missing: responsive (add breakpoint to 1200px), rule to check empty input/without a question mark
 
 [Repository](https://github.com/livprojects/MagicEightBall) / [Codepen](https://codepen.io/livprojects/full/abNjeqe)
 
 ---
 
-🔮 *Upcoming*
+#### 🔮 UPCOMING
 - A more ambitious portfolio 🔸 HTML, CSS, React
 - How to detect fraud in classifieds 🔸 Node.js 
 - Orizon 🔸 React, Node.js, Three.js, PostgreSQL, Sequelize
