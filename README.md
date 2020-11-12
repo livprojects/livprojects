@@ -24,7 +24,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 - MERISE methodology (very French) : scope statement, database design, etc.
 - Kanban tools
 
-📍 *Tech stack I am still working on*
+📍 *Tech stack I am currently exploring*
 - AWS
 - C
 - Python
@@ -34,9 +34,25 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 💾 *Finished projects (or will they ever be?)*
 
+Caesar's Cipher 
+Mario 
+Cash
+Readability
+
+This program, written in C for [Harvard's CS50] (https://cs50.harvard.edu/college/2020/fall/) class, enables to encrypt a message using Caesar's cipher. 
+[Repository] (https://github.com/livprojects/Caesar)
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 Repository / Codepen 
 
 💻 *In progress (and what's missing)*
+
+- Magic Eight Ball
+- Orizon 
 
 🔮 *Upcoming*
 
