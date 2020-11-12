@@ -88,4 +88,8 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 - A more ambitious portfolio 🔸 HTML, CSS, React
 - How to detect fraud in classifieds 🔸 Node.js 
 - Orizon 🔸 React, Node.js, Three.js, PostgreSQL, Sequelize
+- Quiz 🔸 React
+- Style Stage Open source project 🔸 HTML, CSS
+- Pokedex 🔸 ?
+- More projects from my technical training: weather app, money converter, dice roller, Kanban (and tracker), chatroom, etc. 
 
