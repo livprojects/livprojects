@@ -68,7 +68,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 *While exploring other ways of coding and teaching kids the basics of algorithms, I coded this game in [MIT's Scratch language](https://scratch.mit.edu/). You are a dinosaur, run to avoid the asteroids falling on Earth!*
 
-[Repository](https://github.com/livprojects/DinosOnEdge) | [Game]()
+[Repository](https://github.com/livprojects/DinosOnEdge) | [Game](https://scratch.mit.edu/projects/379421106)
 
 ---
 
