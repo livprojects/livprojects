@@ -38,7 +38,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 *Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
 
-**Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))**
+🔎 **Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))**
 
 > Missing: responsive (add breakpoint to 1200px), rule to check empty input/without a question mark
 
