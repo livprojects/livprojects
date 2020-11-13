@@ -32,6 +32,28 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ---
 
+#### 💻 IN PROGRESS (and what's missing)
+
+- Magic Eight Ball 🔸 HTML, CSS, Javascript vanilla
+
+*Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
+
+**Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))**
+
+> Missing: responsive (add breakpoint to 1200px), rule to check empty input/without a question mark
+
+[Repository](https://github.com/livprojects/MagicEightBall) / [Codepen](https://codepen.io/livprojects/full/abNjeqe)
+
+- Style Stage 🔸 HTML, CSS (SASS)
+
+*An open source CSS project described as 'a modern CSS showcase styled by community contributions". More info [here](https://stylestage.dev/).*
+
+[Repository](https://github.com/livprojects/stylestage-CSShorizons)
+
+
+
+---
+
 #### 💾 FINISHED PROJECTS (or will they ever be?)
 
 - Portfolio 🔸 HTML, CSS (Grid)
@@ -72,26 +94,11 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ---
 
-#### 💻 IN PROGRESS (and what's missing)
-
-- Magic Eight Ball 🔸 HTML, CSS, Javascript vanilla
-
-*Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
-
-**Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))**
-
-> Missing: responsive (add breakpoint to 1200px), rule to check empty input/without a question mark
-
-[Repository](https://github.com/livprojects/MagicEightBall) / [Codepen](https://codepen.io/livprojects/full/abNjeqe)
-
----
-
 #### 🔮 UPCOMING
 - A more ambitious portfolio 🔸 HTML, CSS, React
 - How to detect fraud in classifieds 🔸 Node.js 
 - Orizon 🔸 React, Node.js, Three.js, PostgreSQL, Sequelize
 - Quiz 🔸 React
-- Style Stage Open source project 🔸 HTML, CSS
 - Pokedex 🔸 ?
 - More projects from my technical training: weather app, money converter, dice roller, Kanban (and tracker), chatroom, etc. 
 
