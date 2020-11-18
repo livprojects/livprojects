@@ -34,27 +34,41 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 #### 💻 IN PROGRESS (and what's missing)
 
-- Magic Eight Ball 🔸 HTML, CSS, Javascript vanilla
+- __Orizon__ 🔸 HTML, CSS, React/Redux (Javascript), Node.js (Javascript), Express.js, Three.js, PostgreSQL, Sequelize
+
+*Orizon is an informative website for kids and teenagers aged between 10 and 17 years old, about the upcoming space race. Starting with the Moon, you can browse through all the missions already scheduled.*
+
+> Missing: better responsive design, stronger authentication features, possibility to add your own quiz, unit tests, etc.
+
+⏯[Repository](https://github.com/livprojects/orizon) / [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&feature=youtu.be&t=5041&ab_channel=O%27clock)
+
+- __Magic Eight Ball__ 🔸 HTML, CSS, Javascript vanilla
 
 *Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
 
-🔎 **Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))**
+🔎 *Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))*
 
 > Missing: responsive (add breakpoint to 1200px), rule to check empty input/without a question mark
 
-[Repository](https://github.com/livprojects/MagicEightBall) / [Codepen](https://codepen.io/livprojects/full/abNjeqe)
+⏯[Repository](https://github.com/livprojects/MagicEightBall) / [Codepen](https://codepen.io/livprojects/full/abNjeqe)
 
-- Style Stage 🔸 HTML, CSS (SASS)
+- __Style Stage__ 🔸 HTML, CSS (SASS)
 
 *An open source CSS project described as 'a modern CSS showcase styled by community contributions". More info [here](https://stylestage.dev/).*
 
-[Repository](https://github.com/livprojects/stylestage-CSShorizons)
+> Missing: pretty much everything
 
-- Draw your tiles 🔸 HTML, CSS, Javascript vanilla
+
+⏯[Repository](https://github.com/livprojects/stylestage-CSShorizons)
+
+- __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
 
 *Click on the tiles to draw whatever you want, thanks to this tool coded in Javascript.*
 
-[Repository](https://github.com/livprojects/draw-your-tiles)
+> Missing: actual drawing feature / possibility to change the size of the grid and each cell
+
+
+⏯[Repository](https://github.com/livprojects/draw-your-tiles)
 
 
 
@@ -63,48 +77,47 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 #### 💾 FINISHED PROJECTS (or will they ever be?)
 
-- Portfolio 🔸 HTML, CSS (Grid)
+- __Portfolio__ 🔸 HTML, CSS (Grid)
 
 *A very basic portfolio in HTML and CSS, while a more ambitious portfolio is on the making. Uses CSS Grid.*
 
-[Repository](https://github.com/livprojects/Mario) | [Link](https://livprojects.github.io)
+⏯[Repository](https://github.com/livprojects/Mario) | [Link](https://livprojects.github.io)
 
-- Caesar's Cipher 🔸 C
+- __Caesar's Cipher__ 🔸 C
 
 *With this program written in C for [Harvard's CS50](https://cs50.harvard.edu/college/2020/fall/) class, you can encrypt a message using Caesar's cipher.*
 
-[Repository](https://github.com/livprojects/Caesar)
+⏯[Repository](https://github.com/livprojects/Caesar)
 
-- Mario 🔸 C
+- __Mario__ 🔸 C
 
 *With this program written in C for [Harvard's CS50](https://cs50.harvard.edu/college/2020/fall/) class, you can build half pyramids like in Nintendo's SuperMario Brothers.*
 
-[Repository](https://github.com/livprojects/Mario)
+⏯[Repository](https://github.com/livprojects/Mario)
 
-- Cash 🔸 C
+- __Cash__ 🔸 C
 
 *A greedy algorithm written in C for [Harvard's CS50](https://cs50.harvard.edu/college/2020/fall/) class to determine the least number of coins due when giving change.*
 
-[Repository](https://github.com/livprojects/Cash)
+⏯[Repository](https://github.com/livprojects/Cash)
 
-- Readability 🔸 C
+- __Readability__ 🔸 C
 
 *With this program written in C for [Harvard's CS50](https://cs50.harvard.edu/college/2020/fall/) class, you can determine the approximate grade level needed to understand a specific text.*
 
-[Repository](https://github.com/livprojects/Readability)
+⏯[Repository](https://github.com/livprojects/Readability)
 
-- Dinos on edge 🔸 Scratch
+- __Dinos on edge__ 🔸 Scratch
 
 *While exploring other ways of coding and teaching kids the basics of algorithms, I coded this game in [MIT's Scratch language](https://scratch.mit.edu/). You are a dinosaur, run to avoid the asteroids falling on Earth!*
 
-[Repository](https://github.com/livprojects/DinosOnEdge) | [Game](https://scratch.mit.edu/projects/379421106)
+⏯[Repository](https://github.com/livprojects/DinosOnEdge) | [Game](https://scratch.mit.edu/projects/379421106)
 
 ---
 
 #### 🔮 UPCOMING
 - A more ambitious portfolio 🔸 HTML, CSS, React
 - How to detect fraud in classifieds 🔸 Node.js 
-- Orizon 🔸 React, Node.js, Three.js, PostgreSQL, Sequelize
 - Quiz 🔸 React
 - Pokedex 🔸 ?
 - More projects from my technical training: weather app, money converter, dice roller, Kanban (and tracker), chatroom, etc. 
