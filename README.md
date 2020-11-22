@@ -10,7 +10,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 - HTML
 - Javascript (vanilla)
 - CSS
-- React 
+- React / Redux
 - Node.js
 - Express.js
 - SQL/PostgreSQL/Sequelize
