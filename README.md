@@ -81,7 +81,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 *A very basic portfolio in HTML and CSS, while a more ambitious portfolio is on the making. Uses CSS Grid.*
 
-⏯[Repository](https://github.com/livprojects/Mario) | [Link](https://livprojects.github.io)
+⏯[Repository](https://github.com/livprojects/livprojects.github.io) | [Link](https://livprojects.github.io)
 
 - __Caesar's Cipher__ 🔸 C
 
