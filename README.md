@@ -9,7 +9,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 📍 *Tech stack I am ready to use in a professional environment*
 - HTML
 - Javascript (vanilla)
-- CSS
+- CSS / Sass (SCSS)
 - React / Redux
 - Node.js
 - Express.js
@@ -42,7 +42,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ⏯[Repository](https://github.com/livprojects/orizon) / [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&feature=youtu.be&t=5041&ab_channel=O%27clock)
 
-- __Magic Eight Ball__ 🔸 HTML, CSS, Javascript vanilla
+- __Magic Eight Ball__ 🔸 HTML, CSS (Grid), Javascript vanilla
 
 *Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
 
@@ -77,7 +77,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 #### 💾 COMPLETE PROJECTS (or will they ever be?)
 
-- __Quiz (Orizon)__ 🔸 HTML, CSS, React
+- __Quiz (Orizon)__ 🔸 HTML, CSS (SASS), React
 
 A quiz feature from the [Orizon](https://github.com/livprojects/orizon) project. I coded this myself and switched from a Redux environment (in the Orizon setting) to a slimmer React-only project, just for display purposes. Two quizzes are available for now: for each question, you can choose how many answers you want to click on. There is a confirmation step: green is the right answer, red is a wrong one. If you didn't select the right answer, the quiz won't tell you which it was: it is on purpose. You can click on any of the answers but there is a clue stating how many answers are expected. You get the results at the end of each quiz.  
 
