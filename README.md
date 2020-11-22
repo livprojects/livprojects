@@ -125,7 +125,6 @@ A quiz feature from the [Orizon](https://github.com/livprojects/orizon) project.
 #### 🔮 UPCOMING
 - A more ambitious portfolio 🔸 HTML, CSS, React
 - How to detect fraud in classifieds 🔸 Node.js 
-- Quiz 🔸 React
 - Pokedex 🔸 ?
 - More projects from my technical training: weather app, money converter, dice roller, Kanban (and tracker), chatroom, etc. 
 
