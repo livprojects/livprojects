@@ -75,7 +75,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ---
 
-#### 💾 FINISHED PROJECTS (or will they ever be?)
+#### 💾 COMPLETE PROJECTS (or will they ever be?)
 
 - __Quiz (Orizon)__ 🔸 HTML, CSS, React
 
