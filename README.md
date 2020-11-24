@@ -42,6 +42,17 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ⏯[Repository](https://github.com/livprojects/orizon) / [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&feature=youtu.be&t=5041&ab_channel=O%27clock)
 
+
+- __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
+
+*Click on the tiles to draw whatever you want, thanks to this tool coded in Javascript.*
+
+> Missing: Almost done ! Missing CSS fix but otherwise it works
+
+
+⏯[Repository](https://github.com/livprojects/draw-your-tiles)
+
+
 - __Magic Eight Ball__ 🔸 HTML, CSS (Grid), Javascript vanilla
 
 *Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
@@ -58,18 +69,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 > Missing: pretty much everything
 
-
 ⏯[Repository](https://github.com/livprojects/stylestage-CSShorizons)
-
-- __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
-
-*Click on the tiles to draw whatever you want, thanks to this tool coded in Javascript.*
-
-> Missing: actual drawing feature / possibility to change the size of the grid and each cell
-
-
-⏯[Repository](https://github.com/livprojects/draw-your-tiles)
-
 
 
 
