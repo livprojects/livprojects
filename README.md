@@ -27,6 +27,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 📍 *Tech stack I am currently exploring*
 - AWS
 - C
+- Java
 - Python
 - Vue.js
 
