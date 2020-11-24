@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node) but I am eager to expand my knowledge. 
+Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node) but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
 
 📬 Please feel free to reach out and comment on my projects, but please be kind, constructive and bear in mind I am still a junior developer! Thank you ✨ 
 
@@ -34,7 +34,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 #### 💻 IN PROGRESS (and what's missing)
 
-- __Orizon__ 🔸 HTML, CSS, React/Redux (Javascript), Node.js (Javascript), Express.js, Three.js, PostgreSQL, Sequelize
+- 🎯 __Orizon__ 🔸 HTML, CSS, React/Redux (Javascript), Node.js (Javascript), Express.js, Three.js, PostgreSQL, Sequelize
 
 *Orizon is an informative website for kids and teenagers aged between 10 and 17 years old, about the upcoming space race. Starting with the Moon, you can browse through all the missions already scheduled.*
 
@@ -43,7 +43,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 ⏯[Repository](https://github.com/livprojects/orizon) / [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&feature=youtu.be&t=5041&ab_channel=O%27clock)
 
 
-- __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
+- 🎯 __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
 
 *Click on the tiles to draw whatever you want, thanks to this tool coded in Javascript.*
 
@@ -53,7 +53,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 ⏯[Repository](https://github.com/livprojects/draw-your-tiles)
 
 
-- __Magic Eight Ball__ 🔸 HTML, CSS (Grid), Javascript vanilla
+- 🎯 __Magic Eight Ball__ 🔸 HTML, CSS (Grid), Javascript vanilla
 
 *Have you ever wanted to know what your fate will be? This is a tribute to magic eight balls.*
 
@@ -77,7 +77,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 #### 💾 COMPLETE PROJECTS (or will they ever be?)
 
-- __Quiz (Orizon)__ 🔸 HTML, CSS (SASS), React
+- 🎯 __Quiz (Orizon)__ 🔸 HTML, CSS (SASS), React
 
 A quiz feature from the [Orizon](https://github.com/livprojects/orizon) project. I coded this myself and switched from a Redux environment (in the Orizon setting) to a slimmer React-only project, just for display purposes. Two quizzes are available for now: for each question, you can choose how many answers you want to click on. There is a confirmation step: green is the right answer, red is a wrong one. If you didn't select the right answer, the quiz won't tell you which it was: it is on purpose. You can click on any of the answers but there is a clue stating how many answers are expected. You get the results at the end of each quiz.  
 
