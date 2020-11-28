@@ -91,6 +91,13 @@ This short program in Java is one of those games: try changing the value of the 
 
 ⏯[Repository](https://github.com/livprojects/mathmagic) 
 
+- __Calculator__ 🔸 Java
+
+*This is a basic calculator with add, substract, divide, multiply and modulo methods. Change the methods and the arguments in the main method, and test the output!*
+
+⏯[Repository](https://github.com/livprojects/calculator) 
+
+
 
 - __Portfolio__ 🔸 HTML, CSS (Grid)
 
