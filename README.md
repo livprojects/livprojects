@@ -19,7 +19,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 - Mocha/Chai/Enzyme for unit testing 
 
 📍 *Collaborative tools and methods I use*
-- Git & Github (duh)
+- Git & Github 
 - Agile software development 
 - MERISE methodology (very French) : scope statement, database design, etc.
 - Kanban tools
