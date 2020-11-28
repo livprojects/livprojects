@@ -80,9 +80,16 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 - 🎯 __Quiz (Orizon)__ 🔸 HTML, CSS (SASS), React
 
-A quiz feature from the [Orizon](https://github.com/livprojects/orizon) project. I coded this myself and switched from a Redux environment (in the Orizon setting) to a slimmer React-only project, just for display purposes. Two quizzes are available for now: for each question, you can choose how many answers you want to click on. There is a confirmation step: green is the right answer, red is a wrong one. If you didn't select the right answer, the quiz won't tell you which it was: it is on purpose. You can click on any of the answers but there is a clue stating how many answers are expected. You get the results at the end of each quiz.  
+*A quiz feature from the [Orizon](https://github.com/livprojects/orizon) group project. I coded this feature myself and switched from a Redux environment (in the Orizon setting) to a slimmer React-only project, just for display purposes. Two quizzes are available for now: for each question, you can choose how many answers you want to click on. There is a confirmation step: green is the right answer, red is a wrong one. If you didn't select the right answer, the quiz won't tell you which it was: it is on purpose. You can click on any of the answers but there is a clue stating how many answers are expected. You get the results at the end of each quiz.*  
 
 ⏯[Repository](https://github.com/livprojects/quiz-orizon) | [Avalaible online](http://orizon-quiz.surge.sh/)
+
+- __Math magic__ 🔸 Java
+
+*Do you remember those chain mails in the 2000s blowing your mind with math tricks? 
+This short program in Java is one of those games: try changing the value of the "myNumber" variable, and see how the effect on the output in the console !*  
+
+⏯[Repository](https://github.com/livprojects/mathmagic) 
 
 
 - __Portfolio__ 🔸 HTML, CSS (Grid)
