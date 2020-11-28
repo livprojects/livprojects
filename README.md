@@ -62,7 +62,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 > Missing: responsive (add breakpoint to 1200px), rule to check empty input/without a question mark
 
-⏯[Repository](https://github.com/livprojects/MagicEightBall) / [Codepen](https://codepen.io/livprojects/full/abNjeqe)
+⏯[Repository](https://github.com/livprojects/MagicEightBall) / [Available online](http://magicworks.surge.sh/)
 
 - __Style Stage__ 🔸 HTML, CSS (SASS)
 
