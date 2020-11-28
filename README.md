@@ -97,6 +97,13 @@ This short program in Java is one of those games: try changing the value of the 
 
 ⏯[Repository](https://github.com/livprojects/calculator) 
 
+- __Make a droid__ 🔸 Java
+
+*Have you ever danced with a droid? This short program allows you to choose a droid's name and what it can do. Be careful not to drain its battery level though!*
+
+⏯[Repository](https://github.com/livprojects/makeadroid) 
+
+
 
 
 - __Portfolio__ 🔸 HTML, CSS (Grid)
