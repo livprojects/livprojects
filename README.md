@@ -39,7 +39,7 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 *Orizon is an informative website for kids and teenagers aged between 10 and 17 years old, about the upcoming space race. Starting with the Moon, you can browse through all the missions already scheduled.*
 
-> Missing: better responsive design, stronger authentication features, possibility to add your own quiz, unit tests, etc.
+> Missing: better responsive design, stronger authentication features, possibility for the admin to manage ranks, unit tests, etc.
 
 ⏯[Repository](https://github.com/livprojects/orizon) / [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&feature=youtu.be&t=5041&ab_channel=O%27clock)
 
