@@ -64,6 +64,15 @@ Welcome to my Github profile ! My name is Liv, I am 26 and I am a junior web dev
 
 ⏯[Repository](https://github.com/livprojects/MagicEightBall) / [Available online](http://magicworks.surge.sh/)
 
+
+- __Portfolio__ 🔸 HTML, CSS (SASS, Grid), React/Redux (Javascript)
+
+*A Blade-Runner and time-travelling inspired portfolio. Just started, as of December 2020.*
+
+⏯[Repository](https://github.com/livprojects/time-machine-portfolio) 
+
+
+
 - __Style Stage__ 🔸 HTML, CSS (SASS)
 
 *An open source CSS project described as 'a modern CSS showcase styled by community contributions". More info [here](https://stylestage.dev/).*
