@@ -47,7 +47,7 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 ⏯[Repository](https://github.com/livprojects/quiz-orizon) | [Avalaible online](http://orizon-quiz.surge.sh/)
 
 
-- Ebooks 🔸 Java, Spring WebMVC, Spring DATA-JPA, Hibernate, JSP
+- __Ebooks__ 🔸 Java, Spring WebMVC, Spring DATA-JPA, Hibernate, JSP
 
 *Ebooks is a student project written in Java. We were two to develop this platform enabling the user to post their stories and keep track of them.*
 
