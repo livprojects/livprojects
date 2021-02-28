@@ -39,11 +39,13 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 
 ⏯[Repository](https://github.com/livprojects/orizon-prod) | [Hosted on Heroku](https://o-rizon.herokuapp.com/#/) | [Demo](https://www.youtube.com/watch?v=yRnSeJcDcPs&feature=youtu.be&t=5041&ab_channel=O%27clock)
 
+
 - __Quiz (Orizon)__ 🔸 HTML, CSS (SASS), React
 
 *A quiz feature from the [Orizon](https://github.com/livprojects/orizon-prod) group project. I coded this feature myself and switched from a Redux environment (in the Orizon setting) to a slimmer React-only project, just for display purposes. Two quizzes are available for now: for each question, you can choose how many answers you want to click on. There is a confirmation step: green is the right answer, red is a wrong one. If you didn't select the right answer, the quiz won't tell you which it was: it is on purpose. You can click on any of the answers but there is a clue stating how many answers are expected. You get the results at the end of each quiz.*  
 
 ⏯[Repository](https://github.com/livprojects/quiz-orizon) | [Avalaible online](http://orizon-quiz.surge.sh/)
+
 
 - Ebooks 🔸 Java, Spring WebMVC, Spring DATA-JPA, Hibernate, JSP
 
@@ -51,11 +53,13 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 
 ⏯[Repository](https://github.com/livprojects/ebooks)
 
+
 - __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
 
 *Click on the tiles to draw whatever you want, thanks to this tool coded in Javascript. Fully responsive with % and rem, no media queries.*
 
 ⏯[Repository](https://github.com/livprojects/draw-your-tiles) | [Draw online!] (http://drawyourtiles.surge.sh)
+
 
 - __Magic Eight Ball__ 🔸 HTML, CSS (Grid), Javascript vanilla
 
@@ -66,21 +70,25 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 ⏯[Repository](https://github.com/livprojects/MagicEightBall) / [Available online](http://work-your-magic.surge.sh/) and on [CodePen](https://codepen.io/livprojects/pen/abNjeqe)
 
 
+
 - __Portfolio__ 🔸 HTML, CSS (Grid)
 
 *A very basic portfolio in HTML and CSS, while a more ambitious portfolio is on the making. Uses CSS Grid.*
 
 ⏯[Repository](https://github.com/livprojects/livprojects.github.io) | [Link](https://livprojects.github.io)
 
-- __Portfolio__ 🔸 HTML, CSS, Javascript (vanilla)
+
+- __Fanfiction generator__ 🔸 HTML, CSS, Javascript (vanilla)
 
 *A sarcastic tribute to a time of our lives when we thought we were great writers. Prerequisites to enjoy this: speaking French and having spent way too long reading fanfictions when you were a teenager. (Gift for a friend)*
 
 ⏯[Repository](https://github.com/livprojects/fanfiction-generator) | [Become a writer](http://lachetescomz.surge.sh/)
 
+
 🔸 Java basic programs: [Math Magic](https://github.com/livprojects/mathmagic), [Calculator](https://github.com/livprojects/calculator), [Make a droid](https://github.com/livprojects/makeadroid);
 
-🔸 C basic programs: [Caesar's Cipher](https://github.com/livprojects/Caesar), [Mario](https://github.com/livprojects/Mario), [Cash](https://github.com/livprojects/Cash), [Readability](https://github.com/livprojects/Readability)
+🔸 C basic programs: [Caesar's Cipher](https://github.com/livprojects/Caesar), [Mario](https://github.com/livprojects/Mario), [Cash](https://github.com/livprojects/Cash), [Readability](https://github.com/livprojects/Readability);
+
 
 
 - __Dinos on edge__ 🔸 Scratch
@@ -88,6 +96,7 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 *While exploring other ways of coding and teaching kids the basics of algorithms, I coded this game in [MIT's Scratch language](https://scratch.mit.edu/). You are a dinosaur, run to avoid the asteroids falling on Earth!*
 
 ⏯[Repository](https://github.com/livprojects/DinosOnEdge) | [Game](https://scratch.mit.edu/projects/379421106)
+
 
 ---
 
