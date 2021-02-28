@@ -58,7 +58,7 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 
 *Click on the tiles to draw whatever you want, thanks to this tool coded in Javascript. Fully responsive with % and rem, no media queries.*
 
-⏯[Repository](https://github.com/livprojects/draw-your-tiles) | [Draw online!] (http://drawyourtiles.surge.sh)
+⏯[Repository](https://github.com/livprojects/draw-your-tiles) | [Draw online!](http://drawyourtiles.surge.sh)
 
 
 - __Magic Eight Ball__ 🔸 HTML, CSS (Grid), Javascript vanilla
