@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
+Welcome to my Github profile! My name is Liv, I am 27 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
 
 📬 Please feel free to reach out and comment on my projects, but please be kind, constructive and bear in mind I am still a junior developer! Thank you ✨ 
 
@@ -65,7 +65,7 @@ Welcome to my Github profile ! My name is Liv, I am 27 and I am a junior web dev
 
 🔎 *Passes accessible contrast test (checked with [Deque University's aXe tool](https://dequeuniversity.com/color-contrast))*
 
-⏯[Repository](https://github.com/livprojects/MagicEightBall) / [Available online](http://work-your-magic.surge.sh/) and on [CodePen](https://codepen.io/livprojects/pen/abNjeqe)
+⏯[Repository](https://github.com/livprojects/MagicEightBall) | [Available online](http://work-your-magic.surge.sh/) | and on [CodePen](https://codepen.io/livprojects/pen/abNjeqe)
 
 
 
