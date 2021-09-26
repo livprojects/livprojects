@@ -102,9 +102,9 @@ Welcome to my Github profile! My name is Liv, I am 27 and I am a junior web deve
 
 - __Portfolio__ 🔸 HTML, CSS (SASS, Grid), React/Redux (Javascript)
 
-*A Blade-Runner and time-travelling inspired portfolio. Just started, as of December 2020.*
+*A laboratory/archive room inspired portfolio. Started fresh in August 2021.*
 
-⏯[Repository](https://github.com/livprojects/time-machine-portfolio) 
+⏯[Repository](https://github.com/livprojects/tech-teapot) 
 
 
 - __Style Stage__ 🔸 HTML, CSS (SASS)
