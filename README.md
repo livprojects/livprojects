@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile! My name is Liv, I am 28 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
+Welcome to my Github profile! My name is Liv, I am 28 and I am a full-stack developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
 
 📬 Please feel free to reach out and comment on my projects, but please be kind, constructive and bear in mind I am still a junior developer! Thank you ✨ 
 
@@ -9,9 +9,9 @@ Welcome to my Github profile! My name is Liv, I am 28 and I am a junior web deve
 📍 *Tech stack I am ready to use in a professional environment*
 - HTML
 - CSS / Sass (SCSS)
-- Javascript: vanilla, React / Redux, Node.js, Express.js, Angular 
+- Javascript: vanilla, React / Redux, Node.js, Express.js, Angular 10
 - Typescript
-- Java: JEE, Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC)
+- Java 8: JEE, Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC)
 - SQL/PostgreSQL/Sequelize/MySQL
 - RESTful APIs design & implementation
 - Mocha/Chai/Enzyme for unit testing 
