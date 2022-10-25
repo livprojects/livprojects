@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile! My name is Liv, I am 27 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
+Welcome to my Github profile! My name is Liv, I am 28 and I am a junior web developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
 
 📬 Please feel free to reach out and comment on my projects, but please be kind, constructive and bear in mind I am still a junior developer! Thank you ✨ 
 
