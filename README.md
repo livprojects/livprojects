@@ -51,6 +51,12 @@ Welcome to my Github profile! My name is Liv, I am 28 and I am a junior web deve
 
 ⏯[Repository](https://github.com/livprojects/ebooks)
 
+- __Warlock Holmes__ 🔸 Java, Vue.js
+
+*A Java JEE/Vue.js student project. We were three to develop this detective game, inspired by the famous Cluedo, but full of monsters doing all kinds of mischief! We were three students working on this.*
+
+⏯[Repository](https://github.com/livprojects/warlock-holmes)
+
 
 - __Draw your tiles__ 🔸 HTML, CSS, Javascript vanilla
 
