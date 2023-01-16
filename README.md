@@ -33,7 +33,7 @@ Welcome to my Github profile! My name is Liv, I am 28 and I am a full-stack deve
 
 *This portfolio was deployed in January 2023 and acts as a showcase for my career as a journalist and then a full-stack developer. It was coded in React.*
 
-⏯[Repository]([https://github.com/livprojects/orizon-prod](https://github.com/livprojects/tech-teapot)) | [Hosted here]([https://o-rizon.herokuapp.com/#/](https://liv-audigane.com/)) 
+⏯[Repository](https://github.com/livprojects/tech-teapot) | [Hosted here](https://liv-audigane.com/)
 
 
 - __Orizon__ 🔸 HTML, CSS, React/Redux (Javascript), Node.js (Javascript), Express.js, Three.js, PostgreSQL, Sequelize
