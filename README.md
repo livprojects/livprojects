@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. 
-
-📬 Please feel free to reach out and comment on my projects, but please be kind, constructive and bear in mind I am still a junior developer! Thank you ✨ 
+Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. Those are only PRACTICE projects and do not necessarily reflect what I've been doing on a daily basis.
 
 📰 I also have a Master's degree in political science which doubles as a professional degree in Journalism. I have been writing for six years now for major French media outlets on economics, science, societal issues and literature. So whether you're interested in my technical or my writing skills, you can reach me on [Linkedin](https://www.linkedin.com/in/liv-audigane/).
 
 📍 *Tech stack I am ready to use in a professional environment*
+- Java 8: JEE, Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC), JUnit / Mockito
+  Javascript: vanilla, React 18 / Redux, Node.js, Express.js, Angular 10
 - HTML
 - CSS / Sass (SCSS)
-- Javascript: vanilla, React / Redux, Node.js, Express.js, Angular 10
 - Typescript
-- Java 8: JEE, Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC), JUnit / Mockito
 - SQL/PostgreSQL/Sequelize/MySQL
 - RESTful APIs design & implementation
 
@@ -22,6 +20,7 @@ Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack deve
 - Kanban tools
 
 📍 *Tech stack I am currently exploring*
+- PHP
 - C
 - Python
 
@@ -79,7 +78,6 @@ Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack deve
 ⏯[Repository](https://github.com/livprojects/MagicEightBall) | [Available online](http://work-your-magic.surge.sh/) | and on [CodePen](https://codepen.io/livprojects/pen/abNjeqe)
 
 
-
 - __Portfolio__ 🔸 HTML, CSS (Grid)
 
 *A very basic portfolio in HTML and CSS, while a more ambitious portfolio is in the making. Uses CSS Grid.*
@@ -97,38 +95,3 @@ Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack deve
 🔸 Java basic programs: [Math Magic](https://github.com/livprojects/mathmagic), [Calculator](https://github.com/livprojects/calculator), [Make a droid](https://github.com/livprojects/makeadroid);
 
 🔸 C basic programs: [Caesar's Cipher](https://github.com/livprojects/Caesar), [Mario](https://github.com/livprojects/Mario), [Cash](https://github.com/livprojects/Cash), [Readability](https://github.com/livprojects/Readability);
-
-
-
-- __Dinos on edge__ 🔸 Scratch
-
-*While exploring other ways of coding and teaching kids the basics of algorithms, I coded this game in [MIT's Scratch language](https://scratch.mit.edu/). You are a dinosaur, run to avoid the asteroids falling on Earth!*
-
-⏯[Repository](https://github.com/livprojects/DinosOnEdge) | [Game](https://scratch.mit.edu/projects/379421106)
-
-
----
-
-#### 💻 IN PROGRESS (and what's missing)
-
-- __Portfolio__ 🔸 HTML, CSS (SASS, Grid), React/Redux (Javascript)
-
-*A laboratory/archive room inspired portfolio. Started fresh in August 2021.*
-
-⏯[Repository](https://github.com/livprojects/tech-teapot) 
-
-
-- __Style Stage__ 🔸 HTML, CSS (SASS)
-
-*An open source CSS project described as 'a modern CSS showcase styled by community contributions". More info [here](https://stylestage.dev/).*
-
-> Missing: pretty much everything
-
-⏯[Repository](https://github.com/livprojects/stylestage-CSShorizons)
-
----
-
-#### 🔮 UPCOMING (MAYBE)
-- How to detect fraud in classifieds 🔸 Node.js 
-- Pokedex 🔸 ?
-- More projects from my technical training: weather app, money converter, dice roller, Kanban (and tracker), chatroom, etc. 
