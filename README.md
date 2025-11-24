@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚠️ While I try to keep my side projects and portfolios updated, I also focus on my full-time job. Everything might not be up-to-date, please reach out if you have any question. 
+⚠️ __While I try to keep my side projects and portfolios updated, I also focus on my full-time job. Everything might not be up-to-date, please reach out if you have any question.__ 
 
 Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. Those are only PRACTICE projects and do not necessarily reflect what I've been doing on a daily basis.
 
