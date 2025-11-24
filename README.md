@@ -8,8 +8,9 @@ Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack deve
 
 📍 *Tech stack I am ready to use in a professional environment*
 - Java 8: JEE, Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC), JUnit / Mockito
-- Javascript: vanilla, React 18 / Redux, Node.js, Express.js, Angular 10
+- Javascript: vanilla, React 18 / Redux, Node.js, Express.js, Angular 10+
 - HTML
+- PHP / Symfony
 - CSS / Sass (SCSS)
 - Typescript
 - SQL/PostgreSQL/Sequelize/MySQL
@@ -18,11 +19,9 @@ Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack deve
 📍 *Collaborative tools and methods I use*
 - Git, Gitlab & Github 
 - Agile software development & Scrum framework
-- MERISE methodology (very French) : scope statement, database design, etc.
-- Kanban tools
+- Jira, Confluence
 
 📍 *Tech stack I am currently exploring*
-- PHP
 - C
 - Python
 
