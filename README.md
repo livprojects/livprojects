@@ -1,29 +1,37 @@
 ### Hi there 👋
 
-⚠️ __While I try to keep my side projects and portfolios updated, I also focus on my full-time job. Everything might not be up-to-date, please reach out if you have any question.__ 
+> ⚠️ _While I try to keep my portfolio and side projects updated, I also have a full-time job — everything might not be up-to-date. Feel free to reach out if you have any questions._
 
-Welcome to my Github profile! My name is Liv, I am 31 and I am a full-stack developer from France. My technical training has been more focused on Javascript (especially React and Node.js) and Java, but I am eager to expand my knowledge. The projects marked with the 🎯 emoji are the ones I would like you to look at in priority. Those are only PRACTICE projects and do not necessarily reflect what I've been doing on a daily basis.
+My name is Liv and I'm a full-stack developer based in France, with 5 years of professional experience across the full stack. My background leans towards JavaScript (React, Node.js) and Java, with significant PHP/Symfony experience as well. The projects marked with the 🎯 emoji are the ones I'd recommend looking at first — keep in mind they are practice projects and don't necessarily reflect my day-to-day work.
 
-📰 I also have a Master's degree in political science which doubles as a professional degree in Journalism. I have been writing for six years now for major French media outlets on economics, science, societal issues and literature. So whether you're interested in my technical or my writing skills, you can reach me on [Linkedin](https://www.linkedin.com/in/liv-audigane/).
+📰 I also hold a Master's degree in Political Science with a specialisation in Journalism, and spent 7 years writing about science, society, and technology for major French media outlets. So whether you're interested in my technical or my writing skills, feel free to connect on [LinkedIn](https://www.linkedin.com/in/liv-audigane/).
 
-📍 *Tech stack I am ready to use in a professional environment*
-- Java 8: JEE, Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC), JUnit / Mockito
-- Javascript: vanilla, React 18 / Redux, Node.js, Express.js, Angular 10+
-- HTML
-- PHP / Symfony
-- CSS / Sass (SCSS)
-- Typescript
-- SQL/PostgreSQL/Sequelize/MySQL
-- RESTful APIs design & implementation
+---
 
-📍 *Collaborative tools and methods I use*
-- Git, Gitlab & Github 
-- Agile software development & Scrum framework
-- Jira, Confluence
+📍 *Tech stack I have used in a professional environment*
 
-📍 *Tech stack I am currently exploring*
-- C
+- **JavaScript**: vanilla, React 19 / Redux, Node.js, Express.js, Angular
+- **PHP**: Symfony, Twig
+- **Java**: Maven, Hibernate, Spring (Data-JPA, Boot, WebMVC), JUnit / Mockito
+- **TypeScript**
+- **HTML / CSS / Sass (SCSS)**
+- **Databases**: SQL, PostgreSQL, MySQL, Sequelize, Liquibase
+- **APIs**: RESTful design & implementation, Postman
+- **Workflow orchestration**: Temporal
+- **AI-assisted development**: Claude Code, Gitlab Duo, ChatGPT
+
+📍 *Collaborative tools and methods*
+
+- Git, GitLab & GitHub
+- Agile / Scrum
+- Jira, Confluence, Notion
+
+📍 *Currently exploring*
+
+- Development with AI agents : how to keep coding (which I love) while saving time, how to train my brain not to be lazy while using AI
 - Python
+- C
+
 
 ---
 
